@@ -3,9 +3,9 @@ Geoff's Seven Language in Seven Weeks
 
 Purpose:
 --------
-	1. I need some inspiration 
-	2. For the fun
-	3. I like learning
+1. I need some inspiration 
+2. For the fun
+3. I like learning
 
 About:
 ------
